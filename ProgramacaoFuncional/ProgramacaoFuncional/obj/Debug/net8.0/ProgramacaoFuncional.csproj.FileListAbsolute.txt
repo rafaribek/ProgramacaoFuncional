@@ -1,0 +1,14 @@
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\net8.0\ProgramacaoFuncional.exe
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\net8.0\ProgramacaoFuncional.deps.json
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\net8.0\ProgramacaoFuncional.runtimeconfig.json
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\net8.0\ProgramacaoFuncional.dll
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\net8.0\ProgramacaoFuncional.pdb
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.AssemblyInfoInputs.cache
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.AssemblyInfo.cs
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.dll
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\refint\ProgramacaoFuncional.dll
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.pdb
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ProgramacaoFuncional.genruntimeconfig.cache
+C:\Users\aluno-cesul\Documents\C#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\net8.0\ref\ProgramacaoFuncional.dll
